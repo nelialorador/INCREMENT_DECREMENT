@@ -1,0 +1,35 @@
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: center;
+  align-items: center;
+  justify-content: center;
+}
+
+.wrap {
+  text-align: center;
+  background: orange;
+  padding: 10px;
+
+}
+
+.wrap h3 {
+  font-family: arial, sans-serif;
+  color: white;
+}
+
+
+#plus {
+  color: green;
+
+}
+
+#minus {
+  color: red;
+
+}
+
+#reset {
+  color: blue;
+
+}
